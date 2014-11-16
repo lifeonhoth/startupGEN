@@ -1,0 +1,65 @@
+{
+    "heading": [
+        "ATTENTION VCs"
+    ],
+
+    "template": [
+        "@wordvow @conssuffix",
+        "@wordcons @vowsuffix"
+
+    ],
+
+    "wordvow": [
+        "Nu",
+        "Natura",
+        "Forma",
+        "Futura",
+        "Inova",
+        "Ino"
+        "Agri",
+        "Aero",
+        "Ampli",
+        "Arcti",
+        "Ardu",
+        "Wiffle",
+        "Bibbli",
+        "Chroma",
+        "Compu",
+        "Forma"
+    ],
+
+    "wordcons": [
+        "Bit",
+        "Gen",
+        "Form",
+        "Futur",
+        "Inov",
+        "Box",
+        "Vox",
+        "Ampl",
+        "Alt",
+        "Arct",
+        "Bibl",
+        "Box",
+        "Cash",
+        "Pocket",
+        "Bibbl"
+    ],
+
+    "conssuffix": [
+        "ly",
+        "sense",
+        ".js",
+        "dyn",
+        "gen",
+        "co"
+    ],
+
+    "vowsuffix": [
+        "io",
+        "ly",
+        ".js",
+        "o"   
+        
+    ]
+}
