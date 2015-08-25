@@ -32,7 +32,7 @@ var WTF = (function() {
 
     function start() {
         
-        // Copy out templates then remove from corpus
+        // Copy out templates then remove from corpus (fb 2014)
 
         templates = corpus.template;
         responses = corpus.response;

@@ -43,7 +43,10 @@
         "Box",
         "Cash",
         "Pocket",
-        "Bibbl"
+        "Bibbl",
+        "Narc",
+        "Pharm", 
+        "Paint"
     ],
 
     "conssuffix": [

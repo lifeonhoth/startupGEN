@@ -1,7 +1,7 @@
 $(function() {
 
     // Populate using an object literal
-    // how to implement subtitles e.g. "Naturadyn: dynamic, like nature"
+    // TODO: how to implement subtitles e.g. "Naturadyn: dynamic, like nature"
 
     WTF.init({
     "heading": [
@@ -54,7 +54,10 @@ $(function() {
         "Vid",
         "Cloud",
         "Phlux",
-        "Fab"
+        "Fab", 
+        "Narc",
+        "Pharm", 
+        "Paint"
     ],
 
     "conssuffix": [
