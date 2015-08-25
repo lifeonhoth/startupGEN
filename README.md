@@ -1,6 +1,10 @@
+## startupNamer
+
+Your pitch meeting with west coast VCs coming up and you STIll haven't named your startup? You gave all of your best name ideas to your last 10 companies? Never fear, startupNamer is here! Simply launch it in your browser* and refresh the page to generate new names! 
+
+* In terminal: go to the directory that contains the startupNamer folder and type "python -m SimpleHTTPServer:8000" then hit enter! Navigate your browser to localhost:8000 
+
 INSPIRED BY: https://github.com/soulwire   BY FLETCHER: https://github.com/lifeonhoth 
-
-
 
 
 ## How to use it

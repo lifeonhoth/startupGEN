@@ -1,6 +1,7 @@
 $(function() {
 
     // Populate using an object literal
+    // how to implement subtitles e.g. "Naturadyn: dynamic, like nature"
 
     WTF.init({
     "heading": [
@@ -80,7 +81,7 @@ $(function() {
 });
 
 
-    // Populate using a JSON file
+    // Populate using a JSON file or use main.js
     //WTF.init( 'sample.json' );
 
     // Populate using a Google spreadsheet ID (you must publish it first!)
